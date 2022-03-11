@@ -1,2 +1,2 @@
 ###[A] Research
-Answers on Medical Sciences are expected to [include references](https://medicalsciences.meta.stackexchange.com/questions/1/) to back up claims and information in them. Please [edit] your answer to include your sources. 
+Answers on Medical Sciences are expected to [include references](https://medicalsciences.meta.stackexchange.com/questions/1/) to back up claims and information in them. Please [edit] your answer to include your sources. Here is a list of [reliable sources](https://medicalsciences.meta.stackexchange.com/questions/112/what-are-reliable-sources) to get you started in case you need them.
