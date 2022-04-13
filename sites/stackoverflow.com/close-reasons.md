@@ -1,3 +1,6 @@
+###[C] Data analysis / statistics
+I am voting to close this question because it appears to focus on data analysis or statistics and not a practical programming question as defined in the [help/on-topic].
+
 ###[C] General Legal or Licensing Question
 I'm voting to close this question because [licensing advice is off-topic on $SITENAME$.](//meta.stackoverflow.com/a/274964) You may be able to get help on [SoftwareEngineering.SE](//softwareengineering.stackexchange.com), but [**read their faq carefully** before proceeding](//softwareengineering.meta.stackexchange.com/q/7265). Legal questions may be asked on [Law.SE](//law.stackexchange.com/).
 
