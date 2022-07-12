@@ -1,3 +1,6 @@
+###[A] New Question / Clarification
+Please do not post answers to ask for clarification or pose a different question. All posts placed in the answer box [are expected to address the question posted at the top of the page](//$SITEURL$/help/deleted-answers). If you have a *different* question, you can [search](//$SITEURL$/search) for other questions, or refer to the related and linked questions on the right-hand side of the page. If that fails, you can [ask a new question](//$SITEURL$/questions/ask), and include a link to this one to help provide context.
+
 ###[A] Answers just to say Thanks!
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
 
