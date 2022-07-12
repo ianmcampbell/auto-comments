@@ -1,6 +1,9 @@
 ###[A] New Question / Clarification
 Please do not post answers to ask for clarification or pose a different question. All posts placed in the answer box [are expected to address the question posted at the top of the page](//$SITEURL$/help/deleted-answers). If you have a *different* question, you can [search](//$SITEURL$/search) for other questions, or refer to the related and linked questions on the right-hand side of the page. If that fails, you can [ask a new question](//$SITEURL$/questions/ask), and include a link to this one to help provide context.
 
+###[A] Me Too
+Please do not post an answer to say "I have this question too." All posts placed in the answer box [are expected to address the question posted at the top of the page](//$SITEURL$/help/deleted-answers). You can click the "Follow" link under the question to be [notified of updates](https://meta.stackexchange.com/questions/345661/). You can [search](//$SITEURL$/search) for other questions, or refer to the related and linked questions on the right-hand side of the page. If you earn a bit more reputation, you may also [upvote](//$SITEURL$/privileges/vote-up) the question to indicate your interest.
+
 ###[A] Answers just to say Thanks!
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
 
